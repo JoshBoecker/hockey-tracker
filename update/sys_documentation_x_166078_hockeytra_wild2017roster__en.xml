@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="MN Wild 2017-2018 Roster" language="en" table="x_166078_hockeytra_wild2017roster">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>MN Wild 2017-2018 Roster</label>
+            <language>en</language>
+            <name>x_166078_hockeytra_wild2017roster</name>
+            <plural>MN Wild 2017-2018 Rosters</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>josh.boecker</sys_created_by>
+            <sys_created_on>2017-11-01 15:06:44</sys_created_on>
+            <sys_id>c6cf852b0f060300ebad3e4ce1050e61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>MN Wild 2017-2018 Roster</sys_name>
+            <sys_package display_value="HockeyTracker" source="x_166078_hockeytra">245ee2530f020300ebad3e4ce1050e76</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HockeyTracker">245ee2530f020300ebad3e4ce1050e76</sys_scope>
+            <sys_update_name>sys_documentation_x_166078_hockeytra_wild2017roster__en</sys_update_name>
+            <sys_updated_by>josh.boecker</sys_updated_by>
+            <sys_updated_on>2017-11-01 15:06:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_166078_hockeytra_wild2017roster" version="2" view="sys_ref_list">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_player</element>
+            <list_id display_value="x_166078_hockeytra_wild2017roster" element="NULL" name="x_166078_hockeytra_wild2017roster" parent="NULL" relationship="NULL" sys_domain="global" view="5c962341dd2003003399d83d70be026c">2e3d333c0f120300ebad3e4ce1050e35</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>josh.boecker</sys_created_by>
+            <sys_created_on>2017-11-06 00:56:56</sys_created_on>
+            <sys_id>a23d333c0f120300ebad3e4ce1050e36</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>josh.boecker</sys_updated_by>
+            <sys_updated_on>2017-11-06 00:56:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_no_</element>
+            <list_id display_value="x_166078_hockeytra_wild2017roster" element="NULL" name="x_166078_hockeytra_wild2017roster" parent="NULL" relationship="NULL" sys_domain="global" view="5c962341dd2003003399d83d70be026c">2e3d333c0f120300ebad3e4ce1050e35</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>josh.boecker</sys_created_by>
+            <sys_created_on>2017-11-06 00:56:56</sys_created_on>
+            <sys_id>263d333c0f120300ebad3e4ce1050e36</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>josh.boecker</sys_updated_by>
+            <sys_updated_on>2017-11-06 00:56:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_pos</element>
+            <list_id display_value="x_166078_hockeytra_wild2017roster" element="NULL" name="x_166078_hockeytra_wild2017roster" parent="NULL" relationship="NULL" sys_domain="global" view="5c962341dd2003003399d83d70be026c">2e3d333c0f120300ebad3e4ce1050e35</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>josh.boecker</sys_created_by>
+            <sys_created_on>2017-11-06 00:56:56</sys_created_on>
+            <sys_id>a63d333c0f120300ebad3e4ce1050e36</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>josh.boecker</sys_updated_by>
+            <sys_updated_on>2017-11-06 00:56:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_age</element>
+            <list_id display_value="x_166078_hockeytra_wild2017roster" element="NULL" name="x_166078_hockeytra_wild2017roster" parent="NULL" relationship="NULL" sys_domain="global" view="5c962341dd2003003399d83d70be026c">2e3d333c0f120300ebad3e4ce1050e35</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>josh.boecker</sys_created_by>
+            <sys_created_on>2017-11-06 00:56:56</sys_created_on>
+            <sys_id>2a3d333c0f120300ebad3e4ce1050e36</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>josh.boecker</sys_updated_by>
+            <sys_updated_on>2017-11-06 00:56:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_166078_hockeytra_wild2017roster</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>josh.boecker</sys_created_by>
+            <sys_created_on>2017-11-06 00:56:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2e3d333c0f120300ebad3e4ce1050e35</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_166078_hockeytra_wild2017roster</sys_name>
+            <sys_package display_value="HockeyTracker" source="x_166078_hockeytra">245ee2530f020300ebad3e4ce1050e76</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HockeyTracker">245ee2530f020300ebad3e4ce1050e76</sys_scope>
+            <sys_update_name>sys_ui_list_x_166078_hockeytra_wild2017roster_sys_ref_list</sys_update_name>
+            <sys_updated_by>josh.boecker</sys_updated_by>
+            <sys_updated_on>2017-11-06 00:56:56</sys_updated_on>
+            <sys_user/>
+            <view display_value="Reference List" name="sys_ref_list">5c962341dd2003003399d83d70be026c</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

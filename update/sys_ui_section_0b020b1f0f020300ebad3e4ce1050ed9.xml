@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="0b020b1f0f020300ebad3e4ce1050ed9" sys_domain="global" table="x_166078_hockeytra_hockey_players" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_player</element>
+            <position>0</position>
+            <sys_created_by>josh.boecker</sys_created_by>
+            <sys_created_on>2017-11-01 04:49:32</sys_created_on>
+            <sys_id>85820f1f0f020300ebad3e4ce1050e7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_166078_hockeytra_hockey_players" sys_domain="global" view="Default view">0b020b1f0f020300ebad3e4ce1050ed9</sys_ui_section>
+            <sys_updated_by>josh.boecker</sys_updated_by>
+            <sys_updated_on>2017-11-01 04:49:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_no_</element>
+            <position>1</position>
+            <sys_created_by>josh.boecker</sys_created_by>
+            <sys_created_on>2017-11-01 04:49:32</sys_created_on>
+            <sys_id>09820f1f0f020300ebad3e4ce1050e7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_166078_hockeytra_hockey_players" sys_domain="global" view="Default view">0b020b1f0f020300ebad3e4ce1050ed9</sys_ui_section>
+            <sys_updated_by>josh.boecker</sys_updated_by>
+            <sys_updated_on>2017-11-01 04:49:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_age</element>
+            <position>2</position>
+            <sys_created_by>josh.boecker</sys_created_by>
+            <sys_created_on>2017-11-01 04:49:32</sys_created_on>
+            <sys_id>89820f1f0f020300ebad3e4ce1050e7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_166078_hockeytra_hockey_players" sys_domain="global" view="Default view">0b020b1f0f020300ebad3e4ce1050ed9</sys_ui_section>
+            <sys_updated_by>josh.boecker</sys_updated_by>
+            <sys_updated_on>2017-11-01 04:49:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_ht</element>
+            <position>3</position>
+            <sys_created_by>josh.boecker</sys_created_by>
+            <sys_created_on>2017-11-01 04:49:32</sys_created_on>
+            <sys_id>0d820f1f0f020300ebad3e4ce1050e7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_166078_hockeytra_hockey_players" sys_domain="global" view="Default view">0b020b1f0f020300ebad3e4ce1050ed9</sys_ui_section>
+            <sys_updated_by>josh.boecker</sys_updated_by>
+            <sys_updated_on>2017-11-01 04:49:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_birth_date</element>
+            <position>4</position>
+            <sys_created_by>josh.boecker</sys_created_by>
+            <sys_created_on>2017-11-01 04:49:32</sys_created_on>
+            <sys_id>8d820f1f0f020300ebad3e4ce1050e7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_166078_hockeytra_hockey_players" sys_domain="global" view="Default view">0b020b1f0f020300ebad3e4ce1050ed9</sys_ui_section>
+            <sys_updated_by>josh.boecker</sys_updated_by>
+            <sys_updated_on>2017-11-01 04:49:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_exp</element>
+            <position>5</position>
+            <sys_created_by>josh.boecker</sys_created_by>
+            <sys_created_on>2017-11-01 04:49:32</sys_created_on>
+            <sys_id>01820f1f0f020300ebad3e4ce1050e7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_166078_hockeytra_hockey_players" sys_domain="global" view="Default view">0b020b1f0f020300ebad3e4ce1050ed9</sys_ui_section>
+            <sys_updated_by>josh.boecker</sys_updated_by>
+            <sys_updated_on>2017-11-01 04:49:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_flag</element>
+            <position>6</position>
+            <sys_created_by>josh.boecker</sys_created_by>
+            <sys_created_on>2017-11-01 04:49:32</sys_created_on>
+            <sys_id>81820f1f0f020300ebad3e4ce1050e7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_166078_hockeytra_hockey_players" sys_domain="global" view="Default view">0b020b1f0f020300ebad3e4ce1050ed9</sys_ui_section>
+            <sys_updated_by>josh.boecker</sys_updated_by>
+            <sys_updated_on>2017-11-01 04:49:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>josh.boecker</sys_created_by>
+            <sys_created_on>2017-11-01 04:49:32</sys_created_on>
+            <sys_id>05820f1f0f020300ebad3e4ce1050e7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_166078_hockeytra_hockey_players" sys_domain="global" view="Default view">0b020b1f0f020300ebad3e4ce1050ed9</sys_ui_section>
+            <sys_updated_by>josh.boecker</sys_updated_by>
+            <sys_updated_on>2017-11-01 04:49:32</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_s_c</element>
+            <position>8</position>
+            <sys_created_by>josh.boecker</sys_created_by>
+            <sys_created_on>2017-11-01 04:49:32</sys_created_on>
+            <sys_id>85820f1f0f020300ebad3e4ce1050e7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_166078_hockeytra_hockey_players" sys_domain="global" view="Default view">0b020b1f0f020300ebad3e4ce1050ed9</sys_ui_section>
+            <sys_updated_by>josh.boecker</sys_updated_by>
+            <sys_updated_on>2017-11-01 04:49:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_pos</element>
+            <position>9</position>
+            <sys_created_by>josh.boecker</sys_created_by>
+            <sys_created_on>2017-11-01 04:49:32</sys_created_on>
+            <sys_id>09820f1f0f020300ebad3e4ce1050e7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_166078_hockeytra_hockey_players" sys_domain="global" view="Default view">0b020b1f0f020300ebad3e4ce1050ed9</sys_ui_section>
+            <sys_updated_by>josh.boecker</sys_updated_by>
+            <sys_updated_on>2017-11-01 04:49:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_wt</element>
+            <position>10</position>
+            <sys_created_by>josh.boecker</sys_created_by>
+            <sys_created_on>2017-11-01 04:49:32</sys_created_on>
+            <sys_id>89820f1f0f020300ebad3e4ce1050e7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_166078_hockeytra_hockey_players" sys_domain="global" view="Default view">0b020b1f0f020300ebad3e4ce1050ed9</sys_ui_section>
+            <sys_updated_by>josh.boecker</sys_updated_by>
+            <sys_updated_on>2017-11-01 04:49:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_166078_hockeytra_hockey_players</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>josh.boecker</sys_created_by>
+            <sys_created_on>2017-11-01 04:47:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b020b1f0f020300ebad3e4ce1050ed9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_166078_hockeytra_hockey_players</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="HockeyTracker" source="x_166078_hockeytra">245ee2530f020300ebad3e4ce1050e76</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HockeyTracker">245ee2530f020300ebad3e4ce1050e76</sys_scope>
+            <sys_update_name>sys_ui_section_0b020b1f0f020300ebad3e4ce1050ed9</sys_update_name>
+            <sys_updated_by>josh.boecker</sys_updated_by>
+            <sys_updated_on>2017-11-01 04:47:28</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="HockeyTracker" max_length="40" name="x_166078_hockeytra_hockeytracker" type="collection">
+        <element label="Name" mandatory="true" max_length="32" name="name" reference="sys_user" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="3" display="true" label="Pick 3" mandatory="true" max_length="32" name="pick_3" reference="x_166078_hockeytra_wild2017roster" type="reference">
+            <choice/>
+        </element>
+        <element attributes="omit_sys_original=true" label="Week" max_length="20" name="u_currency" type="currency"/>
+        <element label="Date" max_length="40" name="u_glide_date" type="glide_date"/>
+        <element label="Pick 1" mandatory="true" max_length="32" name="u_pick_1" reference="x_166078_hockeytra_wild2017roster" type="reference"/>
+        <element label="Pick 2" mandatory="true" max_length="32" name="u_pick_2" reference="x_166078_hockeytra_wild2017roster" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="String Pick 1" max_length="40" name="u_string_1" type="string"/>
+        <index name="index">
+            <element name="pick_3"/>
+        </index>
+        <index name="index2">
+            <element name="u_pick_2"/>
+        </index>
+        <index name="index3">
+            <element name="u_pick_1"/>
+        </index>
+        <index name="index4">
+            <element name="name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_166078_hockeytra.hockeytracker_user" name="x_166078_hockeytra.hockeytracker_user">ea7d3e5b0f020300ebad3e4ce1050ee2</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>josh.boecker</sys_created_by>
+        <sys_created_on>2017-11-01 04:27:30</sys_created_on>
+        <sys_id>627d3e5b0f020300ebad3e4ce1050ee5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ea7d3e5b0f020300ebad3e4ce1050ee2</sys_name>
+        <sys_package display_value="HockeyTracker" source="x_166078_hockeytra">245ee2530f020300ebad3e4ce1050e76</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HockeyTracker">245ee2530f020300ebad3e4ce1050e76</sys_scope>
+        <sys_update_name>sys_embedded_help_role_627d3e5b0f020300ebad3e4ce1050ee5</sys_update_name>
+        <sys_updated_by>josh.boecker</sys_updated_by>
+        <sys_updated_on>2017-11-01 04:27:30</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="2016-2017 Wild Roster" max_length="40" name="x_166078_hockeytra_hockey_players" type="collection">
+        <element attributes="import_attribute_name=Age,edge_encryption_enabled=true" label="Age" max_length="40" name="u_age" type="string"/>
+        <element attributes="import_attribute_name=Birth Date,edge_encryption_enabled=true" label="Birth Date" max_length="40" name="u_birth_date" type="string"/>
+        <element attributes="import_attribute_name=Exp,edge_encryption_enabled=true" label="Years of Experience" max_length="40" name="u_exp" type="string"/>
+        <element attributes="import_attribute_name=Flag,edge_encryption_enabled=true" label="Flag" max_length="40" name="u_flag" type="string"/>
+        <element attributes="import_attribute_name=Ht,edge_encryption_enabled=true" label="Height" max_length="40" name="u_ht" type="string"/>
+        <element attributes="import_attribute_name=No.,edge_encryption_enabled=true" label="No." max_length="40" name="u_no_" type="string"/>
+        <element attributes="import_attribute_name=Player,edge_encryption_enabled=true" label="Player" max_length="40" name="u_player" type="string"/>
+        <element attributes="import_attribute_name=Pos,edge_encryption_enabled=true" label="Position" max_length="40" name="u_pos" type="string"/>
+        <element attributes="import_attribute_name=Summary,edge_encryption_enabled=true" label="Summary" max_length="40" name="u_summary" type="string"/>
+        <element attributes="import_attribute_name=S/C,edge_encryption_enabled=true" label="Shoots/Catches" max_length="40" name="u_s_c" type="string"/>
+        <element attributes="import_attribute_name=Wt,edge_encryption_enabled=true" label="Weight" max_length="40" name="u_wt" type="string"/>
+    </element>
+</database>
